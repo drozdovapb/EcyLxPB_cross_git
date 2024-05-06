@@ -1,0 +1,1184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="174.61501mm"
+   height="83.689125mm"
+   viewBox="0 0 174.615 83.689124"
+   version="1.1"
+   id="svg3987"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="exp1_schematics.svg"
+   inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/figs_data/EcyLxPB_cross_git/Figs_crosses/exp1_schematics.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3989"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.94117647"
+     inkscape:pagecheckerboard="false"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="1"
+     fit-margin-left="1"
+     fit-margin-right="1"
+     fit-margin-bottom="1"
+     inkscape:zoom="2"
+     inkscape:cx="355.25"
+     inkscape:cy="148"
+     inkscape:window-width="1920"
+     inkscape:window-height="1031"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <defs
+     id="defs3984">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path19667" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6308"
+       is_visible="true"
+       lpeversion="0" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5354"
+       is_visible="true"
+       lpeversion="0" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5328"
+       is_visible="true"
+       lpeversion="0" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5282"
+       is_visible="true"
+       lpeversion="0" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5254"
+       is_visible="true"
+       lpeversion="0" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5238"
+       is_visible="true"
+       lpeversion="0" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5234"
+       is_visible="true"
+       lpeversion="0" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5230"
+       is_visible="true"
+       lpeversion="0" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5226"
+       is_visible="true"
+       lpeversion="0" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4535"
+       is_visible="true"
+       lpeversion="0" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7847"
+       is_visible="true"
+       lpeversion="0" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7945"
+       is_visible="true"
+       lpeversion="0" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7951"
+       is_visible="true"
+       lpeversion="0" />
+    <marker
+       style="overflow:visible"
+       id="marker19609"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path19607" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker3858"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path3856" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker3862"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path3860" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path19243" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect19701"
+       is_visible="true"
+       lpeversion="0" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect30495"
+       is_visible="true"
+       lpeversion="0" />
+    <marker
+       style="overflow:visible"
+       id="EmptyTriangleOutL"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="EmptyTriangleOutL"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,-4.8,0)"
+         style="fill:context-fill;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path19400" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker3872"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path3870" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker3876"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path3874" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect47010"
+       is_visible="true"
+       lpeversion="0" />
+    <marker
+       style="overflow:visible"
+       id="marker3881"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path3879" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker3885"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path3883" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect62106"
+       is_visible="true"
+       lpeversion="0" />
+    <marker
+       style="overflow:visible"
+       id="EmptyTriangleOutL-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="EmptyTriangleOutL"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,-4.8,0)"
+         style="fill:context-fill;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path19400-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="EmptyTriangleOutL-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="EmptyTriangleOutL"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,-4.8,0)"
+         style="fill:context-fill;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path19400-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker19609-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path19607-1" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect47010-1"
+       is_visible="true"
+       lpeversion="0" />
+    <marker
+       style="overflow:visible"
+       id="marker22196"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path22194" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker22200"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path22198" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect62106-5"
+       is_visible="true"
+       lpeversion="0" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-8.432623,-11.618797)">
+    <text
+       xml:space="preserve"
+       style="font-size:3.88055px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.160602"
+       x="33.181103"
+       y="15.415044"
+       id="text5927"
+       inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan5925"
+         style="font-style:italic;font-weight:normal;font-size:3.88055px;stroke-width:0.160602"
+         x="33.181103"
+         y="15.415044">I. Sampling</tspan></text>
+    <g
+       id="g41882"
+       transform="translate(38.223105,-0.16059971)">
+      <text
+         xml:space="preserve"
+         style="font-size:3.42615px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:#000080;stroke-width:0.160602"
+         x="12.270396"
+         y="21.443457"
+         id="text4465"
+         inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"><tspan
+           sodipodi:role="line"
+           id="tspan4463"
+           style="fill:#000080;stroke-width:0.160602"
+           x="12.270396"
+           y="21.443457">Port Baikal (PB)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.42615px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.160602"
+         x="13.079612"
+         y="26.273367"
+         id="text7509"
+         inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"><tspan
+           sodipodi:role="line"
+           id="tspan7507"
+           style="stroke-width:0.160602"
+           x="13.079612"
+           y="26.273367">60 amplexuses</tspan></text>
+      <g
+         id="g11733"
+         transform="matrix(0.60699785,0,0,0.60699785,28.789434,1.104909)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -31.389422,43.556467 v 19.833172 h 22.80301 V 43.556467"
+           id="path4533-3"
+           inkscape:connector-curvature="0"
+           inkscape:path-effect="#path-effect4535"
+           inkscape:original-d="m -31.389422,43.556467 v 19.833172 h 22.80301 V 43.556467"
+           sodipodi:nodetypes="cccc"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200"
+           inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M -5.4602332,43.556467 V 63.389639 H 17.342775 V 43.556467"
+           id="path7843"
+           inkscape:connector-curvature="0"
+           inkscape:path-effect="#path-effect7847"
+           inkscape:original-d="M -5.4602332,43.556467 V 63.389639 H 17.342775 V 43.556467"
+           sodipodi:nodetypes="cccc"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200"
+           inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:5.13926px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke:#000080;stroke-width:0.160602"
+         x="17.818813"
+         y="34.118507"
+         id="text9297"
+         inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"><tspan
+           sodipodi:role="line"
+           id="tspan9295"
+           style="font-size:5.13926px;stroke:#000080;stroke-width:0.160602"
+           x="17.818813"
+           y="34.118507"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.13926px;font-family:Symbola;-inkscape-font-specification:Symbola;stroke:#000080;stroke-width:0.160602"
+             id="tspan9299">♀</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.42615px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.160602"
+         x="12.472112"
+         y="34.337326"
+         id="text17023"
+         inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"><tspan
+           sodipodi:role="line"
+           id="tspan17021"
+           style="stroke-width:0.160602"
+           x="12.472112"
+           y="34.337326">60</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:5.13926px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke:#000080;stroke-width:0.160602"
+         x="33.236519"
+         y="34.118507"
+         id="text17109"
+         inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"><tspan
+           sodipodi:role="line"
+           id="tspan17107"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.13926px;font-family:Symbola;-inkscape-font-specification:Symbola;stroke:#000080;stroke-width:0.160602"
+           x="33.236519"
+           y="34.118507">♂</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.42615px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.160602"
+         x="27.889812"
+         y="34.337326"
+         id="text17113"
+         inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"><tspan
+           sodipodi:role="line"
+           id="tspan17111"
+           style="stroke-width:0.160602"
+           x="27.889812"
+           y="34.337326">60</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.303499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 16.32136,39.574091 7.925225,35.896033"
+       id="path19656"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.303499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="M 69.872623,39.574091 24.947426,75.470124"
+       id="path20006"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.303499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 54.865724,39.574091 6.924899,35.896033"
+       id="path20026"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.303499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="M 54.321623,39.574091 43.524809,75.470124"
+       id="path20028"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.303499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="M 32.381515,39.574091 42.551623,75.470124"
+       id="path20167"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.303499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="M 71.31925,39.574091 63.115623,75.470124"
+       id="path20344"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.42615px;line-height:1;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.160602"
+       x="89.523483"
+       y="22.348539"
+       id="text38692-2"
+       inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.160602"
+         x="89.523483"
+         y="22.348539"
+         id="tspan21233">7-day acclimation</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.606998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#EmptyTriangleOutL-7)"
+       d="M 78.600569,24.197902 H 127.28292"
+       id="path41717-1"
+       inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g8913"
+       transform="matrix(0.60699785,0,0,0.60699785,43.27356,14.041904)">
+      <rect
+         style="fill:#ffffff;stroke:none;stroke-width:2.53029;stroke-linecap:square;paint-order:stroke fill markers"
+         id="rect8740"
+         width="67.402832"
+         height="6.8069439"
+         x="32.889347"
+         y="75.695305" />
+      <text
+         xml:space="preserve"
+         style="font-size:6.39303px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+         x="32.54554"
+         y="80.755936"
+         id="text21317"
+         inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"><tspan
+           sodipodi:role="line"
+           id="tspan21315"
+           style="font-style:italic;font-weight:normal;font-size:6.39303px;stroke-width:0.264583"
+           x="32.54554"
+           y="80.755936">III. Crossing <tspan
+   style="font-style:normal"
+   id="tspan38716">(see Fig. 4)</tspan></tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:3.42615px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.160409;stroke-miterlimit:4;stroke-dasharray:none"
+       x="132.83537"
+       y="15.757305"
+       id="text44925-9"
+       inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-weight:normal;font-size:3.88055px;stroke-width:0.160409;stroke-miterlimit:4;stroke-dasharray:none"
+         x="132.83537"
+         y="15.757305"
+         id="tspan25431">II. Mate choice trials </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.160409;stroke-miterlimit:4;stroke-dasharray:none"
+         x="132.83537"
+         y="20.189264"
+         id="tspan28236">(<tspan
+   style="font-weight:bold;stroke-width:0.160409"
+   id="tspan47896">25</tspan> experiments of 4 types: </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke-width:0.160409;stroke-miterlimit:4;stroke-dasharray:none"
+         x="132.83537"
+         y="24.581377"
+         id="tspan25820">♀<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#00000f;fill-opacity:1;stroke:#c49102;stroke-width:0.160409;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="tspan28712">L</tspan>/<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke:#000080;stroke-width:0.160409;stroke-opacity:1"
+   id="tspan34050">PB</tspan> x ♂<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke:#c49102;stroke-width:0.160409;stroke-opacity:1"
+   id="tspan30182">L</tspan>;   ♀<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke:#c49102;stroke-width:0.160409;stroke-opacity:1"
+   id="tspan30610">L</tspan> x ♂<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke:#c49102;stroke-width:0.160409;stroke-opacity:1"
+   id="tspan31122">L</tspan>/<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke:#000080;stroke-width:0.160409;stroke-opacity:1"
+   id="tspan35386">PB</tspan>;</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke-width:0.160409;stroke-miterlimit:4;stroke-dasharray:none"
+         x="132.83537"
+         y="29.028269"
+         id="tspan25822">♀<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke:#c49102;stroke-width:0.160409;stroke-opacity:1"
+   id="tspan31514">L</tspan>/<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke:#000080;stroke-width:0.160409;stroke-opacity:1"
+   id="tspan36096">PB</tspan> x ♂<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke:#000080;stroke-width:0.160409;stroke-opacity:1"
+   id="tspan36686">PB</tspan>; ♀<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke:#000080;stroke-width:0.160409;stroke-opacity:1"
+   id="tspan37114">PB</tspan> x ♂<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke:#c49102;stroke-width:0.160409;stroke-opacity:1"
+   id="tspan33232">L</tspan>/<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke:#000080;stroke-width:0.160409;stroke-opacity:1"
+   id="tspan37812">PB</tspan>)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.42615px;line-height:1;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.160602"
+       x="98.949265"
+       y="90.841621"
+       id="text45165-6"
+       inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan45163-7"
+         style="stroke-width:0.160602"
+         x="98.949265"
+         y="90.841621">Ovigerous </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.160602"
+         x="98.949265"
+         y="94.267784"
+         id="tspan23407">females</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.606998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 100.07416,75.394095 v 12.038663 h 13.8414 V 75.394095"
+       id="path47006-3"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect47010-1"
+       inkscape:original-d="m 100.07416,75.394095 v 12.038663 h 13.8414 V 75.394095"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.13926px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:#000000;stroke-width:0.160602"
+       x="105.67065"
+       y="84.718353"
+       id="text47692-6"
+       inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan47690-5"
+         style="font-size:5.13926px;fill:#000000;stroke:#000000;stroke-width:0.160602"
+         x="105.67065"
+         y="84.718353"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.13926px;font-family:Symbola;-inkscape-font-specification:Symbola;fill:#000000;stroke:#000000;stroke-width:0.160602"
+           id="tspan47688-6">♀</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.42615px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.160602"
+       x="104.98066"
+       y="79.829384"
+       id="text47696-3"
+       inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan47694-9"
+         style="stroke-width:0.160602"
+         x="104.98066"
+         y="79.829384">17</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.42615px;line-height:1;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.160602"
+       x="120.63181"
+       y="90.511734"
+       id="text54052-8"
+       inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan54050-1"
+         style="stroke-width:0.160602"
+         x="120.63181"
+         y="90.511734">Unchosen </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.160602"
+         x="120.63181"
+         y="93.937897"
+         id="tspan59206-2">animals</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#22883a;stroke-width:0.606998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 120.95238,75.072872 v 12.038654 h 13.8414 V 75.072872"
+       id="path62102-3"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect62106-5"
+       inkscape:original-d="m 120.95238,75.072872 v 12.038654 h 13.8414 V 75.072872"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.13926px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke:#000000;stroke-width:0.160602"
+       x="122.95251"
+       y="84.718353"
+       id="text62112-9"
+       inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan62110-0"
+         style="font-size:5.13926px;stroke:#000000;stroke-width:0.160602"
+         x="122.95251"
+         y="84.718353"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.13926px;font-family:Symbola;-inkscape-font-specification:Symbola;stroke:#000000;stroke-width:0.160602"
+           id="tspan62108-8">♀</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.42615px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.160602"
+       x="126.02785"
+       y="79.808472"
+       id="text62116-8"
+       inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan62114-5"
+         style="stroke-width:0.160602"
+         x="126.02785"
+         y="79.808472">40</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.13926px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke:#000000;stroke-width:0.160602"
+       x="128.05501"
+       y="85.373306"
+       id="text62120-0"
+       inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan62118-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.13926px;font-family:Symbola;-inkscape-font-specification:Symbola;stroke:#000000;stroke-width:0.160602"
+         x="128.05501"
+         y="85.373306">♂</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.42615px;line-height:1;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.160602"
+       x="169.15607"
+       y="40.379093"
+       id="text68589-6"
+       inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.160602"
+         x="169.15607"
+         y="40.379093"
+         id="tspan68587-3"><tspan
+   style="font-weight:bold;stroke-width:0.160602"
+   id="tspan43193">9</tspan> experiments:</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.160602"
+         x="169.15607"
+         y="43.805244"
+         id="tspan68615-8">amplexus formed</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;text-anchor:middle;stroke-width:0.160602"
+         x="169.15607"
+         y="47.34082"
+         id="tspan26286">2 PBxPB</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;text-anchor:middle;stroke-width:0.160602"
+         x="169.15607"
+         y="50.876392"
+         id="tspan38212">3 LxL</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;text-anchor:middle;stroke-width:0.160602"
+         x="169.15607"
+         y="54.411968"
+         id="tspan26422">2 PBxL</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;text-anchor:middle;stroke-width:0.160602"
+         x="169.15607"
+         y="57.947544"
+         id="tspan38216">2 LxPB</tspan></text>
+    <g
+       id="g41900"
+       transform="translate(-38.223105,0.16059971)">
+      <text
+         xml:space="preserve"
+         style="font-size:3.42615px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:#d4aa00;stroke-width:0.160602"
+         x="52.02256"
+         y="21.122257"
+         id="text4469"
+         inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"><tspan
+           sodipodi:role="line"
+           id="tspan4467"
+           style="fill:#c49102;fill-opacity:1;stroke:none;stroke-width:0.160602"
+           x="52.02256"
+           y="21.122257">Listvyanka (L)</tspan></text>
+      <g
+         id="g11729"
+         transform="matrix(0.60699785,0,0,0.60699785,28.789434,1.104909)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 31.581353,43.556467 V 63.389639 H 54.384315 V 43.556467"
+           id="path7941"
+           inkscape:connector-curvature="0"
+           inkscape:path-effect="#path-effect7945"
+           inkscape:original-d="M 31.581353,43.556467 V 63.389639 H 54.384315 V 43.556467"
+           sodipodi:nodetypes="cccc"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200"
+           inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 57.510488,43.556467 V 63.389639 H 80.313483 V 43.556467"
+           id="path7947"
+           inkscape:connector-curvature="0"
+           inkscape:path-effect="#path-effect7951"
+           inkscape:original-d="M 57.510488,43.556467 V 63.389639 H 80.313483 V 43.556467"
+           sodipodi:nodetypes="cccc"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200"
+           inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:5.13926px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke:#c49102;stroke-width:0.160602;stroke-opacity:1"
+         x="55.399506"
+         y="34.118507"
+         id="text17737"
+         inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"><tspan
+           sodipodi:role="line"
+           id="tspan17735"
+           style="font-size:5.13926px;stroke:#c49102;stroke-width:0.160602;stroke-opacity:1"
+           x="55.399506"
+           y="34.118507"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.13926px;font-family:Symbola;-inkscape-font-specification:Symbola;stroke:#c49102;stroke-width:0.160602;stroke-opacity:1"
+             id="tspan17733">♀</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.42615px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.160602"
+         x="50.052792"
+         y="34.337326"
+         id="text17741"
+         inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"><tspan
+           sodipodi:role="line"
+           id="tspan17739"
+           style="stroke-width:0.160602"
+           x="50.052792"
+           y="34.337326">60</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:5.13926px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke:#c49102;stroke-width:0.160602;stroke-opacity:1"
+         x="70.817406"
+         y="34.118507"
+         id="text17745"
+         inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"><tspan
+           sodipodi:role="line"
+           id="tspan17743"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.13926px;font-family:Symbola;-inkscape-font-specification:Symbola;stroke:#c49102;stroke-width:0.160602;stroke-opacity:1"
+           x="70.817406"
+           y="34.118507">♂</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.42615px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.160602"
+         x="65.470657"
+         y="34.337326"
+         id="text17749"
+         inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"><tspan
+           sodipodi:role="line"
+           id="tspan17747"
+           style="stroke-width:0.160602"
+           x="65.470657"
+           y="34.337326">60</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.42615px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.160602"
+         x="51.296085"
+         y="26.273367"
+         id="text25042"
+         inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"><tspan
+           sodipodi:role="line"
+           id="tspan25040"
+           style="stroke-width:0.160602"
+           x="51.296085"
+           y="26.273367">60 amplexuses</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.362916;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 154.94027,29.4392 10.19427,6.665727"
+       id="path42291"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.362916;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 154.75761,29.4392 -10.19429,6.665727"
+       id="path43355"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.42615px;line-height:1;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.160602"
+       x="134.38002"
+       y="40.379093"
+       id="text44689"
+       inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;stroke-width:0.160602"
+         x="134.38002"
+         y="40.379093"
+         id="tspan44687"><tspan
+   style="font-weight:bold;stroke-width:0.160602"
+   id="tspan44713">16</tspan> experiments:</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;stroke-width:0.160602"
+         x="134.38002"
+         y="43.805244"
+         id="tspan44850">no amplexus formed</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.362916;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="M 127.60571,45.570777 V 75.470124"
+       id="path44932"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.362916;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="M 127.44695,45.570777 107.03416,75.470124"
+       id="path44934"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g42135"
+       transform="translate(-36.295954)">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#9acd32;stroke-width:0.606998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 54.383332,75.072879 V 87.11151 H 68.224711 V 75.072879"
+         id="path30491"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"
+         inkscape:original-d="M 54.383332,75.072879 V 87.11151 H 68.224711 V 75.072879"
+         inkscape:path-effect="#path-effect30495"
+         inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.13925px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke:#c49102;stroke-width:0.160601;stroke-opacity:1"
+         x="55.985153"
+         y="84.718353"
+         id="text30501"
+         inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"><tspan
+           sodipodi:role="line"
+           id="tspan30499"
+           style="font-size:5.13925px;stroke:#c49102;stroke-width:0.160601;stroke-opacity:1"
+           x="55.985153"
+           y="84.718353"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.13925px;font-family:Symbola;-inkscape-font-specification:Symbola;stroke:#c49102;stroke-width:0.160601;stroke-opacity:1"
+             id="tspan30497">♀</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:5.13925px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke:#000080;stroke-width:0.160601"
+         x="61.485909"
+         y="85.373306"
+         id="text30509"
+         inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"><tspan
+           sodipodi:role="line"
+           id="tspan30507"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.13925px;font-family:Symbola;-inkscape-font-specification:Symbola;stroke:#000080;stroke-width:0.160601"
+           x="61.485909"
+           y="85.373306">♂</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.42617px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.160601"
+         x="57.17522"
+         y="90.859291"
+         id="text30517"
+         inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"><tspan
+           sodipodi:role="line"
+           id="tspan30515"
+           style="stroke-width:0.160601"
+           x="57.17522"
+           y="90.859291">LxPB</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.42617px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.160601"
+         x="56.032845"
+         y="79.808479"
+         id="text30505"
+         inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"><tspan
+           sodipodi:role="line"
+           id="tspan30503"
+           style="stroke-width:0.160601"
+           x="56.032845"
+           y="79.808479">20<tspan
+   style="font-size:1.76389px"
+   id="tspan23142"> </tspan>+<tspan
+   style="font-size:1.76389px"
+   id="tspan22490"> </tspan>20</tspan></text>
+    </g>
+    <g
+       id="g42121">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#66ccaa;stroke-width:0.606998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 35.753549,75.072879 V 87.11151 H 49.594926 V 75.072879"
+         id="path19697"
+         inkscape:connector-curvature="0"
+         inkscape:path-effect="#path-effect19701"
+         inkscape:original-d="M 35.753549,75.072879 V 87.11151 H 49.594926 V 75.072879"
+         sodipodi:nodetypes="cccc"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"
+         inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.13925px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke:#000080;stroke-width:0.160601"
+         x="37.975433"
+         y="84.718353"
+         id="text19707"
+         inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"><tspan
+           sodipodi:role="line"
+           id="tspan19705"
+           style="font-size:5.13925px;stroke:#000080;stroke-width:0.160601"
+           x="37.975433"
+           y="84.718353"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.13925px;font-family:Symbola;-inkscape-font-specification:Symbola;stroke:#000080;stroke-width:0.160601"
+             id="tspan19703">♀</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:5.13925px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke:#c49102;stroke-width:0.160601;stroke-opacity:1"
+         x="42.856121"
+         y="85.373306"
+         id="text22147"
+         inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"><tspan
+           sodipodi:role="line"
+           id="tspan22145"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.13925px;font-family:Symbola;-inkscape-font-specification:Symbola;stroke:#c49102;stroke-width:0.160601;stroke-opacity:1"
+           x="42.856121"
+           y="85.373306">♂</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.42617px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.160601"
+         x="38.508629"
+         y="90.859291"
+         id="text26803"
+         inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"><tspan
+           sodipodi:role="line"
+           id="tspan26801"
+           style="stroke-width:0.160601"
+           x="38.508629"
+           y="90.859291">PBxL</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.42617px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.160601"
+         x="37.403061"
+         y="79.808479"
+         id="text41345"
+         inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"><tspan
+           sodipodi:role="line"
+           id="tspan41343"
+           style="stroke-width:0.160601"
+           x="37.403061"
+           y="79.808479">20<tspan
+   style="font-size:1.76389px"
+   id="tspan41339"> </tspan>+<tspan
+   style="font-size:1.76389px"
+   id="tspan41341"> </tspan>20</tspan></text>
+    </g>
+    <g
+       id="g42107"
+       transform="translate(36.295954)">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000080;stroke-width:0.606998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 18.087378,75.072879 V 87.11151 H 31.928757 V 75.072879"
+         id="path6304"
+         inkscape:connector-curvature="0"
+         inkscape:path-effect="#path-effect6308"
+         inkscape:original-d="M 18.087378,75.072879 V 87.11151 H 31.928757 V 75.072879"
+         sodipodi:nodetypes="cccc"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"
+         inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.13925px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke:#000080;stroke-width:0.160601"
+         x="20.309263"
+         y="84.718353"
+         id="text6314"
+         inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"><tspan
+           sodipodi:role="line"
+           id="tspan6312"
+           style="font-size:5.13925px;stroke:#000080;stroke-width:0.160601"
+           x="20.309263"
+           y="84.718353"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.13925px;font-family:Symbola;-inkscape-font-specification:Symbola;stroke:#000080;stroke-width:0.160601"
+             id="tspan6310">♀</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:5.13925px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke:#000080;stroke-width:0.160601"
+         x="25.189953"
+         y="85.373306"
+         id="text6322"
+         inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"><tspan
+           sodipodi:role="line"
+           id="tspan6320"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.13925px;font-family:Symbola;-inkscape-font-specification:Symbola;stroke:#000080;stroke-width:0.160601"
+           x="25.189953"
+           y="85.373306">♂</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.42617px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.160601"
+         x="19.540081"
+         y="90.859291"
+         id="text6330"
+         inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"><tspan
+           sodipodi:role="line"
+           id="tspan6328"
+           style="stroke-width:0.160601"
+           x="19.540081"
+           y="90.859291">PBxPB</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.42617px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.160601"
+         x="19.736889"
+         y="79.808479"
+         id="text41353"
+         inkscape:export-filename="/mnt/Work/Research/Projects/Genome/texts/2023_Ecy_phylotranscr_paper/exp1_schematics.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"><tspan
+           sodipodi:role="line"
+           id="tspan41351"
+           style="stroke-width:0.160601"
+           x="19.736889"
+           y="79.808479">20<tspan
+   style="font-size:1.76389px"
+   id="tspan41347"> </tspan>+<tspan
+   style="font-size:1.76389px"
+   id="tspan41349"> </tspan>20</tspan></text>
+    </g>
+  </g>
+</svg>
