@@ -24,28 +24,30 @@ pscheme <- ggplot() + geom_blank() +
 
 ptotal <- 
 plot_cross_data(cross_data = expdat2022, y_value = "Total.animals", title="Total number of animals") + 
-  scale_color_manual(values = c("#c49102", "#228833", "#66CCAA", "#4477AA")) + 
-  scale_linetype_manual(values = c("41", "21", "2111", "31"))
+  scale_color_manual(values = c("#c49102", "#228833", "#66CCAA", "#4477AA"), name = "Cross: ") + 
+  scale_linetype_manual(values = c("41", "21", "2111", "31"), name = "Cross: ") + 
+  theme(legend.text = element_text(size=13), legend.title = element_text(size=13))
+
 
 img <- readJPEG("../photos/amplexus_w_juv.JPG")
 pampl <- 
 plot_cross_data(cross_data = expdat2022, y_value = "Amplexuses", title="Amplexuses") + 
-  scale_color_manual(values = c("#c49102", "#228833", "#66CCAA", "#4477AA")) + 
-  scale_linetype_manual(values = c("41", "21", "2111", "31"))  + 
+  scale_color_manual(values = c("#c49102", "#228833", "#66CCAA", "#4477AA"), name = "Cross: ") + 
+  scale_linetype_manual(values = c("41", "21", "2111", "31"), name = "Cross: ")  + 
   annotation_custom(grid::rasterGrob(img), ymin = 5, ymax = 15, xmin=as.Date("2022-08-25")) 
 pampl
 
 
 pfem <- 
 plot_cross_data(cross_data = expdat2022, y_value = "Females.with.visible.eggs", title="Ovigerous females") + 
-  scale_color_manual(values = c("#c49102", "#228833", "#66CCAA", "#4477AA")) + 
-  scale_linetype_manual(values = c("41", "21", "2111", "31")) + 
+  scale_color_manual(values = c("#c49102", "#228833", "#66CCAA", "#4477AA"), name = "Cross: ") + 
+  scale_linetype_manual(values = c("41", "21", "2111", "31"), name = "Cross: ") + 
   ylim(c(0,20))
 
 pjuv <- 
 plot_cross_data(cross_data = expdat2022, y_value = "Juveniles", title="Juveniles") + 
-  scale_color_manual(values = c("#c49102", "#228833", "#66CCAA", "#4477AA")) + 
-  scale_linetype_manual(values = c("41", "21", "2111", "31")) + 
+  scale_color_manual(values = c("#c49102", "#228833", "#66CCAA", "#4477AA"), name = "Cross: ") + 
+  scale_linetype_manual(values = c("41", "21", "2111", "31"), name = "Cross: ") + 
   ylim(c(0,100)) + 
   geom_vline(xintercept = as.Date("2022-08-03"), linetype = "dashed", linewidth=1, color="grey")
 
