@@ -1,0 +1,186 @@
+IQ-TREE 2.0.7 built Jan 21 2022
+
+Partition file name: 2_trimmed_alignments
+Type of analysis: ModelFinder + tree reconstruction + ultrafast bootstrap (1000 replicates)
+Random seed number: 925585
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+To cite ModelFinder please use: 
+
+Subha Kalyaanamoorthy, Bui Quang Minh, Thomas KF Wong, Arndt von Haeseler,
+and Lars S Jermiin (2017) ModelFinder: Fast model selection for
+accurate phylogenetic estimates. Nature Methods, 14:587–589.
+https://doi.org/10.1038/nmeth.4285
+
+Since you used ultrafast bootstrap (UFBoot) please also cite: 
+
+Diep Thi Hoang, Olga Chernomor, Arndt von Haeseler, Bui Quang Minh,
+and Le Sy Vinh (2018) UFBoot2: Improving the ultrafast bootstrap
+approximation. Mol. Biol. Evol., 35:518–522.
+https://doi.org/10.1093/molbev/msx281
+
+Since you used partition models please also cite:
+
+Olga Chernomor, Arndt von Haeseler, and Bui Quang Minh (2016)
+Terrace aware data structure for phylogenomic inference from
+supermatrices. Syst. Biol., 65:997-1008.
+https://doi.org/10.1093/sysbio/syw037
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 6 taxa with 15 partitions and 12587 total sites (0% missing data)
+
+  ID  Name                     Type	Seq	Site	Unique	Infor	Invar	Const
+   1  ATP6.fa.aln.trim.aln.fa  DNA	6	669	151	170	376	376
+   2  ATP8.fa.aln.trim.aln.fa  DNA	6	156	67	40	70	70
+   3  COX1.fa.aln.trim.aln.fa  DNA	6	1533	207	291	1005	1005
+   4  COX2.fa.aln.trim.aln.fa  DNA	6	681	138	147	411	411
+   5  COX3.fa.aln.trim.aln.fa  DNA	6	786	191	185	454	454
+   6  CYTB.fa.aln.trim.aln.fa  DNA	6	1135	218	245	679	679
+   7  ND1.fa.aln.trim.aln.fa   DNA	6	921	177	194	543	543
+   8  ND2.fa.aln.trim.aln.fa   DNA	6	981	219	255	499	499
+   9  ND3.fa.aln.trim.aln.fa   DNA	6	352	93	88	202	202
+  10  ND4.fa.aln.trim.aln.fa   DNA	6	1294	242	287	716	716
+  11  ND4L.fa.aln.trim.aln.fa  DNA	6	291	96	80	154	154
+  12  ND5.fa.aln.trim.aln.fa   DNA	6	1710	298	444	894	893
+  13  ND6.fa.aln.trim.aln.fa   DNA	6	498	147	147	228	228
+  14  rrnL.fa.aln.trim.aln.fa  DNA	6	968	140	166	653	653
+  15  rrnS.fa.aln.trim.aln.fa  DNA	6	612	108	113	408	408
+
+Column meanings:
+  Unique: Number of unique site patterns
+  Infor:  Number of parsimony-informative sites
+  Invar:  Number of invariant sites
+  Const:  Number of constant sites (can be subset of invariant sites)
+
+ModelFinder
+-----------
+
+Best-fit model according to BIC: TPM3+F+G4:ATP6.fa.aln.trim.aln.fa,TPM3+F+G4:ATP8.fa.aln.trim.aln.fa,HKY+F+G4:COX1.fa.aln.trim.aln.fa,HKY+F+G4:COX2.fa.aln.trim.aln.fa,HKY+F+G4:COX3.fa.aln.trim.aln.fa,TPM3+F+G4:CYTB.fa.aln.trim.aln.fa,HKY+F+G4:ND1.fa.aln.trim.aln.fa,TIM2+F+G4:ND2.fa.aln.trim.aln.fa,TPM3+F+G4:ND3.fa.aln.trim.aln.fa,TIM3+F+I:ND4.fa.aln.trim.aln.fa,HKY+F+G4:ND4L.fa.aln.trim.aln.fa,TIM2+F+I:ND5.fa.aln.trim.aln.fa,TIM3+F+I:ND6.fa.aln.trim.aln.fa,TPM3+F+G4:rrnL.fa.aln.trim.aln.fa,TPM2+F+G4:rrnS.fa.aln.trim.aln.fa
+
+List of best-fit models per partition:
+
+  ID  Model                  LogL         AIC      w-AIC        AICc     w-AICc         BIC      w-BIC
+   1  TPM3+F+G4         -2591.571    5197.143 - 6.95e-310    5197.312 + 6.95e-310    5228.683 + 2.26e-81
+   2  TPM3+F+G4          -664.485    1342.969 - 6.95e-310    1343.726 + 6.95e-310    1364.318 + 2.26e-81
+   3  HKY+F+G4          -5267.397   10546.794 - 6.95e-310   10546.849 + 6.95e-310   10578.804 + 2.26e-81
+   4  HKY+F+G4          -2489.920    4991.841 - 6.95e-310    4991.966 + 6.95e-310    5018.982 + 2.26e-81
+   5  HKY+F+G4          -3096.989    6205.979 - 6.95e-310    6206.087 + 6.95e-310    6233.981 + 2.26e-81
+   6  TPM3+F+G4         -4310.406    8634.812 - 6.95e-310    8634.912 + 6.95e-310    8670.053 + 2.26e-81
+   7  HKY+F+G4          -3405.229    6822.458 - 6.95e-310    6822.550 + 6.95e-310    6851.411 + 2.26e-81
+   8  TIM2+F+G4         -4056.303    8128.606 - 6.95e-310    8128.754 + 6.95e-310    8167.715 + 2.26e-81
+   9  TPM3+F+G4         -1326.733    2667.466 - 6.95e-310    2667.792 + 6.95e-310    2694.511 + 2.26e-81
+  10  TIM3+F+I          -5097.786   10211.572 - 6.95e-310   10211.684 + 6.95e-310   10252.896 + 2.26e-81
+  11  HKY+F+G4          -1164.105    2340.210 - 6.95e-310    2340.506 + 6.95e-310    2362.250 + 2.26e-81
+  12  TIM2+F+I          -7032.394   14080.789 - 6.95e-310   14080.873 + 6.95e-310   14124.343 + 2.26e-81
+  13  TIM3+F+I          -2124.232    4264.463 - 6.95e-310    4264.758 + 6.95e-310    4298.148 + 2.26e-81
+  14  TPM3+F+G4         -3139.070    6292.139 - 6.95e-310    6292.256 + 6.95e-310    6326.266 + 2.26e-81
+  15  TPM2+F+G4         -2016.768    4047.537 - 6.95e-310    4047.722 + 6.95e-310    4078.454 + 2.26e-81
+
+AIC, w-AIC   : Akaike information criterion scores and weights.
+AICc, w-AICc : Corrected AIC scores and weights.
+BIC, w-BIC   : Bayesian information criterion scores and weights.
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+
+SUBSTITUTION PROCESS
+--------------------
+
+Edge-linked-proportional partition model with separate substitution models and separate rates across sites
+
+  ID  Model           Speed  Parameters
+   1  TPM3+F+G4      1.0854  TPM3{3.73404,11.1994}+F{0.277529,0.226707,0.112606,0.383159}+G4{0.407121}
+   2  TPM3+F+G4      1.4863  TPM3{12.1197,28.0515}+F{0.347222,0.19765,0.0865385,0.36859}+G4{0.665875}
+   3  HKY+F+G4       0.8525  HKY{9.00496}+F{0.256795,0.205914,0.176886,0.360404}+G4{0.250059}
+   4  HKY+F+G4       0.9956  HKY{9.35365}+F{0.297602,0.223935,0.146109,0.332354}+G4{0.322725}
+   5  HKY+F+G4       1.1050  HKY{5.66272}+F{0.254877,0.227735,0.173028,0.34436}+G4{0.325535}
+   6  TPM3+F+G4      1.1615  TPM3{4.85545,18.0761}+F{0.283847,0.216887,0.138032,0.361233}+G4{0.294649}
+   7  HKY+F+G4       1.1305  HKY{9.70427}+F{0.278683,0.109121,0.229823,0.382374}+G4{0.33684}
+   8  TIM2+F+G4      1.1870  TIM2{0.29109,5.06086,2.31893}+F{0.279137,0.212198,0.134557,0.374108}+G4{0.543805}
+   9  TPM3+F+G4      0.9789  TPM3{3.07999,12.8252}+F{0.27178,0.211174,0.150568,0.366477}+G4{0.412458}
+  10  TIM3+F+I       1.0118  TIM3{3.88923,8.65388,14.3056}+F{0.258758,0.111412,0.243818,0.386012}+I{0.437954}
+  11  HKY+F+G4       1.2485  HKY{8.06947}+F{0.27606,0.0922108,0.238259,0.393471}+G4{0.476747}
+  12  TIM2+F+I       1.0032  TIM2{0.656694,3.28819,5.82746}+F{0.286062,0.119493,0.232943,0.361501}+I{0.415313}
+  13  TIM3+F+I       1.0281  TIM3{3.02399,10.665,6.25574}+F{0.273427,0.218876,0.106091,0.401606}+I{0.307172}
+  14  TPM3+F+G4      0.6429  TPM3{0.242351,4.69751}+F{0.329718,0.0952135,0.199725,0.375344}+G4{0.291178}
+  15  TPM2+F+G4      0.6288  TPM2{0.3836,3.44248}+F{0.301743,0.107571,0.227124,0.363562}+G4{0.333013}
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -47782.8087 (s.e. 292.0938)
+Unconstrained log-likelihood (without tree): -43098.7542
+Number of free parameters (#branches + #model parameters): 112
+Akaike information criterion (AIC) score: 95789.6173
+Corrected Akaike information criterion (AICc) score: 95791.6465
+Bayesian information criterion (BIC) score: 96622.9444
+
+Total tree length (sum of branch lengths): 1.2532
+Sum of internal branch lengths: 0.4475 (35.7119% of tree length)
+
+NOTE: Tree is UNROOTED although outgroup taxon 'Acanthogammarus_victorii_KX341962' is drawn at root
+Numbers in parentheses are  / aBayes support / ultrafast bootstrap support (%)
+
++----------------------------------------------------------Acanthogammarus_victorii_KX341962
+|
++--------------------------Brachyuropus_grewingkii_KP161875
+|
+|                                   +--Eulimnogammarus_cyaneus_BK_SRR3467057
+|                +------------------| (/1/100)
+|                |                  +--Eulimnogammarus_cyaneus_SR_KX341964
++----------------| (/1/100)
+                 |                        +---------Eulimnogammarus_verrucosus_BK_KF690638
+                 +------------------------| (/1/100)
+                                          +-----------Eulimnogammarus_verrucosus_PB_SRR21152014
+
+Tree in newick format:
+
+(Acanthogammarus_victorii_KX341962:0.4257164066,Brachyuropus_grewingkii_KP161875:0.1969659187,((Eulimnogammarus_cyaneus_BK_SRR3467057:0.0117018053,Eulimnogammarus_cyaneus_SR_KX341964:0.0087535313)/1/100:0.1398864430,(Eulimnogammarus_verrucosus_BK_KF690638:0.0741007378,Eulimnogammarus_verrucosus_PB_SRR21152014:0.0884214486)/1/100:0.1818097671)/1/100:0.1258459859);
+
+CONSENSUS TREE
+--------------
+
+Consensus tree is constructed from 1000 bootstrap trees
+Log-likelihood of consensus tree: -47782.808760
+Robinson-Foulds distance between ML tree and consensus tree: 0
+
+Branches with support >0.000000% are kept (extended consensus)
+Branch lengths are optimized by maximum likelihood on original alignment
+Numbers in parentheses are bootstrap supports (%)
+
++-----------------------------------------------------------Acanthogammarus_victorii_KX341962
+|
++--------------------------Brachyuropus_grewingkii_KP161875
+|
+|                                   +--Eulimnogammarus_cyaneus_BK_SRR3467057
+|                +------------------| (100)
+|                |                  +--Eulimnogammarus_cyaneus_SR_KX341964
++----------------| (100)
+                 |                        +---------Eulimnogammarus_verrucosus_BK_KF690638
+                 +------------------------| (100)
+                                          +-----------Eulimnogammarus_verrucosus_PB_SRR21152014
+
+
+Consensus tree in newick format: 
+
+(Acanthogammarus_victorii_KX341962:0.4256978054,Brachyuropus_grewingkii_KP161875:0.1969581476,((Eulimnogammarus_cyaneus_BK_SRR3467057:0.0116657993,Eulimnogammarus_cyaneus_SR_KX341964:0.0087773154)100:0.1398886043,(Eulimnogammarus_verrucosus_BK_KF690638:0.0740845044,Eulimnogammarus_verrucosus_PB_SRR21152014:0.0884168430)100:0.1817943218)100:0.1258435451);
+
+TIME STAMP
+----------
+
+Date and time: Mon Apr 15 16:16:39 2024
+Total CPU time used: 3.731441 seconds (0h:0m:3s)
+Total wall-clock time used: 4.062588893 seconds (0h:0m:4s)
+

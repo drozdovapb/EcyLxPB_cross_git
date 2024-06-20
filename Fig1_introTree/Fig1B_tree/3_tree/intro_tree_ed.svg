@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   class="svglite"
+   width="576.00pt"
+   height="180.00pt"
+   viewBox="0 0 576.00 180.00"
+   version="1.1"
+   id="svg96"
+   sodipodi:docname="intro_tree_ed.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview98"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="pt"
+     showgrid="false"
+     inkscape:zoom="1.6861979"
+     inkscape:cx="368.5807"
+     inkscape:cy="119.79614"
+     inkscape:window-width="1920"
+     inkscape:window-height="1031"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g92" />
+  <defs
+     id="defs4">
+    <style
+       type="text/css"
+       id="style2"><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+  </defs>
+  <rect
+     width="100%"
+     height="100%"
+     style="stroke: none; fill: #FFFFFF;"
+     id="rect6" />
+  <defs
+     id="defs11">
+    <clipPath
+       id="cpMC4wMHw1NzYuMDB8MC4wMHwxODAuMDA=">
+      <rect
+         x="0.00"
+         y="0.00"
+         width="576.00"
+         height="180.00"
+         id="rect8" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs20">
+    <clipPath
+       id="cpOC4yMnw1NzAuNTJ8NS40OHwxNzEuNzg=">
+      <rect
+         x="8.22"
+         y="5.48"
+         width="562.30"
+         height="166.30"
+         id="rect17" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#cpOC4yMnw1NzAuNTJ8NS40OHwxNzEuNzg=)"
+     id="g92">
+    <rect
+       x="8.2200003"
+       y="5.48"
+       width="562.29999"
+       height="166.3"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.07"
+       id="rect22" />
+    <line
+       x1="33.78"
+       y1="134.82"
+       x2="251.40"
+       y2="134.82"
+       style="stroke-width: 1.07;"
+       id="line24" />
+    <line
+       x1="33.78"
+       y1="111.73"
+       x2="134.46"
+       y2="111.73"
+       style="stroke-width: 1.07;"
+       id="line26" />
+    <line
+       x1="169.62"
+       y1="88.63"
+       x2="175.60"
+       y2="88.63"
+       style="stroke-width: 1.07;"
+       id="line28" />
+    <line
+       x1="169.62"
+       y1="65.53"
+       x2="174.09"
+       y2="65.53"
+       style="stroke-width: 1.07;"
+       id="line30" />
+    <line
+       x1="191.05"
+       y1="42.44"
+       x2="228.93"
+       y2="42.44"
+       style="stroke-width: 1.07;"
+       id="line32" />
+    <line
+       x1="191.05"
+       y1="19.34"
+       x2="236.25"
+       y2="19.34"
+       style="stroke-width: 1.07;"
+       id="line34" />
+    <line
+       x1="33.78"
+       y1="100.18"
+       x2="33.78"
+       y2="100.18"
+       style="stroke-width: 1.07;"
+       id="line36" />
+    <line
+       x1="33.78"
+       y1="53.98"
+       x2="98.11"
+       y2="53.98"
+       style="stroke-width: 1.07;"
+       id="line38" />
+    <line
+       x1="98.11"
+       y1="77.08"
+       x2="169.62"
+       y2="77.08"
+       style="stroke-width: 1.07;"
+       id="line40" />
+    <line
+       x1="98.11"
+       y1="30.89"
+       x2="191.05"
+       y2="30.89"
+       style="stroke-width: 1.07;"
+       id="line42" />
+    <line
+       x1="33.78"
+       y1="100.18"
+       x2="33.78"
+       y2="134.82"
+       style="stroke-width: 1.07;"
+       id="line44" />
+    <line
+       x1="33.78"
+       y1="100.18"
+       x2="33.78"
+       y2="111.73"
+       style="stroke-width: 1.07;"
+       id="line46" />
+    <line
+       x1="169.62"
+       y1="77.08"
+       x2="169.62"
+       y2="88.63"
+       style="stroke-width: 1.07;"
+       id="line48" />
+    <line
+       x1="169.62"
+       y1="77.08"
+       x2="169.62"
+       y2="65.53"
+       style="stroke-width: 1.07;"
+       id="line50" />
+    <line
+       x1="191.05"
+       y1="30.89"
+       x2="191.05"
+       y2="42.44"
+       style="stroke-width: 1.07;"
+       id="line52" />
+    <line
+       x1="191.05"
+       y1="30.89"
+       x2="191.05"
+       y2="19.34"
+       style="stroke-width: 1.07;"
+       id="line54" />
+    <line
+       x1="33.78"
+       y1="100.18"
+       x2="33.78"
+       y2="100.18"
+       style="stroke-width: 1.07;"
+       id="line56" />
+    <line
+       x1="33.78"
+       y1="100.18"
+       x2="33.78"
+       y2="53.98"
+       style="stroke-width: 1.07;"
+       id="line58" />
+    <line
+       x1="98.11"
+       y1="53.98"
+       x2="98.11"
+       y2="77.08"
+       style="stroke-width: 1.07;"
+       id="line60" />
+    <line
+       x1="98.11"
+       y1="53.98"
+       x2="98.11"
+       y2="30.89"
+       style="stroke-width: 1.07;"
+       id="line62" />
+    <text
+       x="252.49001"
+       y="138.85001"
+       style="font-size:11.04px;font-family:Arial"
+       textLength="205.84"
+       lengthAdjust="spacingAndGlyphs"
+       id="text64"
+       transform="matrix(0.87132971,0,0,1,34.784169,0)"><tspan
+         style="font-style:italic"
+         id="tspan5245">Acanthogammarus victorii </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono'"
+         id="tspan5499">KX341962</tspan></text>
+    <text
+       x="135.55"
+       y="115.75"
+       style="font-size:11.04px;font-family:Arial"
+       textLength="195.91"
+       lengthAdjust="spacingAndGlyphs"
+       id="text66"
+       transform="matrix(0.87132971,0,0,1,18.284169,0)"><tspan
+         style="font-style:italic"
+         id="tspan26665">Brachyuropus grewingkii </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono'"
+         id="tspan11933">KP161875</tspan></text>
+    <text
+       x="176.69"
+       y="92.650002"
+       style="font-size:11.04px;font-family:Arial"
+       textLength="246.50999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text68"
+       transform="matrix(0.87132971,0,0,1,24.284169,0)"><tspan
+         style="font-style:italic"
+         id="tspan25659">Eulimnogammarus cyaneus </tspan><tspan
+         style="font-weight:bold"
+         id="tspan25661">BK </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono'"
+         id="tspan13723">SRR3467057</tspan></text>
+    <text
+       x="175.17999"
+       y="69.550003"
+       style="font-size:11.04px;font-family:Arial"
+       textLength="231.82001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text70"
+       transform="matrix(0.87132971,0,0,1,24.284169,0)"><tspan
+         style="font-style:italic"
+         id="tspan24505">Eulimnogammarus cyaneus </tspan><tspan
+         style="font-weight:bold"
+         id="tspan24503">SR </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono'"
+         id="tspan16179">KX341964</tspan></text>
+    <text
+       x="230.00999"
+       y="46.459999"
+       style="font-size:11.04px;font-family:Arial"
+       textLength="245.35001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text72"
+       transform="matrix(0.87132971,0,0,1,31.784169,0)"><tspan
+         style="font-style:italic"
+         id="tspan23043">Eulimnogammarus verrucosus </tspan><tspan
+         style="font-weight:bold"
+         id="tspan23041">BK </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono'"
+         id="tspan18251">KF690638</tspan></text>
+    <text
+       x="237.33"
+       y="23.360001"
+       style="font-size:11.04px;font-family:Arial"
+       textLength="267.54999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text74"
+       transform="matrix(0.87132971,0,0,1,31.784169,0)"><tspan
+         style="font-style:italic"
+         id="tspan21909">Eulimnogammarus verrucosus </tspan><tspan
+         style="font-weight:bold"
+         id="tspan21911">PB </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono'"
+         id="tspan20329">SRR21152014</tspan></text>
+    <circle
+       cx="33.78"
+       cy="100.18"
+       r="3.56"
+       style="stroke-width: 0.71; stroke: none;"
+       id="circle76" />
+    <circle
+       cx="98.11"
+       cy="53.98"
+       r="3.56"
+       style="stroke-width: 0.71; fill: #000000;"
+       id="circle78" />
+    <circle
+       cx="169.62"
+       cy="77.08"
+       r="3.56"
+       style="stroke-width: 0.71; fill: #000000;"
+       id="circle80" />
+    <circle
+       cx="191.05"
+       cy="30.89"
+       r="3.56"
+       style="stroke-width: 0.71; fill: #000000;"
+       id="circle82" />
+    <line
+       x1="142.59"
+       y1="157.92"
+       x2="163.04"
+       y2="157.92"
+       style="stroke-width: 1.07; stroke-linecap: butt;"
+       id="line84" />
+    <text
+       x="152.81"
+       y="148.67999"
+       text-anchor="middle"
+       style="font-size:11.04px;font-family:Arial"
+       textLength="24.57"
+       lengthAdjust="spacingAndGlyphs"
+       id="text86"
+       transform="matrix(0.81816489,0,0,1,28.64765,6)">0.04</text>
+    <text
+       x="54.23"
+       y="15.41"
+       text-anchor="middle"
+       style="font-size:11.04px;font-family:Arial"
+       textLength="86.419998"
+       lengthAdjust="spacingAndGlyphs"
+       id="text88"
+       transform="matrix(0.87132971,0,0,1,16.784169,1.5)">● UFB = 100% </text>
+    <text
+       x="54.23"
+       y="31.309999"
+       text-anchor="middle"
+       style="font-size:11.04px;font-family:Arial"
+       textLength="66.940002"
+       lengthAdjust="spacingAndGlyphs"
+       id="text90"
+       transform="matrix(0.87132971,0,0,1,16.784169,-3)"> aBayes = 1</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8MC4wMHwxODAuMDA=)"
+     id="g94" />
+</svg>

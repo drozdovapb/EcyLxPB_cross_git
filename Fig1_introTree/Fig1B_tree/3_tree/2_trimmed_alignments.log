@@ -1,0 +1,358 @@
+IQ-TREE multicore version 2.0.7 for Linux 64-bit built Jan 21 2022
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    drozdovapb-HP-17-by1xxx (AVX2, FMA3, 11 GB RAM)
+Command: iqtree2 -p 2_trimmed_alignments -bb 1000 -abayes -o Acanthogammarus_victorii_KX341962
+Seed:    925585 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Mon Apr 15 16:16:28 2024
+Kernel:  AVX+FMA - 1 threads (8 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 8 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading 15 alignment files in directory 2_trimmed_alignments
+Reading alignment file 2_trimmed_alignments/ATP6.fa.aln.trim.aln.fa ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 6 sequences with 669 columns, 151 distinct patterns
+170 parsimony-informative, 123 singleton sites, 376 constant sites
+                                           Gap/Ambiguity  Composition  p-value
+   1  Acanthogammarus_victorii_KX341962            0.00%    failed      0.42%
+   2  Brachyuropus_grewingkii_KP161875             0.00%    passed     26.13%
+   3  Eulimnogammarus_cyaneus_BK_SRR3467057        0.00%    passed     51.24%
+   4  Eulimnogammarus_cyaneus_SR_KX341964          0.00%    passed     65.16%
+   5  Eulimnogammarus_verrucosus_BK_KF690638       0.00%    passed     60.38%
+   6  Eulimnogammarus_verrucosus_PB_SRR21152014    0.00%    passed     45.95%
+****  TOTAL                                        0.00%  1 sequences failed composition chi2 test (p-value<5%; df=3)
+Reading alignment file 2_trimmed_alignments/ATP8.fa.aln.trim.aln.fa ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 6 sequences with 156 columns, 67 distinct patterns
+40 parsimony-informative, 46 singleton sites, 70 constant sites
+                                           Gap/Ambiguity  Composition  p-value
+   1  Acanthogammarus_victorii_KX341962            0.00%    failed      0.86%
+   2  Brachyuropus_grewingkii_KP161875             0.00%    passed     52.84%
+   3  Eulimnogammarus_cyaneus_BK_SRR3467057        0.00%    passed     80.08%
+   4  Eulimnogammarus_cyaneus_SR_KX341964          0.00%    passed     89.26%
+   5  Eulimnogammarus_verrucosus_BK_KF690638       0.00%    passed     37.24%
+   6  Eulimnogammarus_verrucosus_PB_SRR21152014    0.00%    passed     46.06%
+****  TOTAL                                        0.00%  1 sequences failed composition chi2 test (p-value<5%; df=3)
+Reading alignment file 2_trimmed_alignments/COX1.fa.aln.trim.aln.fa ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 6 sequences with 1533 columns, 207 distinct patterns
+291 parsimony-informative, 237 singleton sites, 1005 constant sites
+                                           Gap/Ambiguity  Composition  p-value
+   1  Acanthogammarus_victorii_KX341962            0.00%    failed      0.00%
+   2  Brachyuropus_grewingkii_KP161875             0.00%    passed      9.08%
+   3  Eulimnogammarus_cyaneus_BK_SRR3467057        0.00%    passed     21.44%
+   4  Eulimnogammarus_cyaneus_SR_KX341964          0.00%    passed     30.76%
+   5  Eulimnogammarus_verrucosus_BK_KF690638       0.00%    passed     40.29%
+   6  Eulimnogammarus_verrucosus_PB_SRR21152014    0.00%    failed      4.92%
+****  TOTAL                                        0.00%  2 sequences failed composition chi2 test (p-value<5%; df=3)
+Reading alignment file 2_trimmed_alignments/COX2.fa.aln.trim.aln.fa ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 6 sequences with 681 columns, 138 distinct patterns
+147 parsimony-informative, 123 singleton sites, 411 constant sites
+                                           Gap/Ambiguity  Composition  p-value
+   1  Acanthogammarus_victorii_KX341962            0.00%    failed      0.00%
+   2  Brachyuropus_grewingkii_KP161875             0.00%    passed     15.87%
+   3  Eulimnogammarus_cyaneus_BK_SRR3467057        0.00%    passed     27.94%
+   4  Eulimnogammarus_cyaneus_SR_KX341964          0.00%    passed     50.46%
+   5  Eulimnogammarus_verrucosus_BK_KF690638       0.00%    passed     59.68%
+   6  Eulimnogammarus_verrucosus_PB_SRR21152014    0.00%    passed     17.33%
+****  TOTAL                                        0.00%  1 sequences failed composition chi2 test (p-value<5%; df=3)
+Reading alignment file 2_trimmed_alignments/COX3.fa.aln.trim.aln.fa ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 6 sequences with 786 columns, 191 distinct patterns
+185 parsimony-informative, 147 singleton sites, 454 constant sites
+                                           Gap/Ambiguity  Composition  p-value
+   1  Acanthogammarus_victorii_KX341962            0.00%    failed      2.20%
+   2  Brachyuropus_grewingkii_KP161875             0.00%    passed     30.00%
+   3  Eulimnogammarus_cyaneus_BK_SRR3467057        0.00%    passed     60.20%
+   4  Eulimnogammarus_cyaneus_SR_KX341964          0.00%    passed     47.94%
+   5  Eulimnogammarus_verrucosus_BK_KF690638       0.00%    passed     92.88%
+   6  Eulimnogammarus_verrucosus_PB_SRR21152014    0.00%    passed     43.30%
+****  TOTAL                                        0.00%  1 sequences failed composition chi2 test (p-value<5%; df=3)
+Reading alignment file 2_trimmed_alignments/CYTB.fa.aln.trim.aln.fa ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 6 sequences with 1135 columns, 218 distinct patterns
+245 parsimony-informative, 211 singleton sites, 679 constant sites
+                                           Gap/Ambiguity  Composition  p-value
+   1  Acanthogammarus_victorii_KX341962            0.00%    failed      0.00%
+   2  Brachyuropus_grewingkii_KP161875             0.00%    failed      0.16%
+   3  Eulimnogammarus_cyaneus_BK_SRR3467057        0.00%    passed     34.58%
+   4  Eulimnogammarus_cyaneus_SR_KX341964          0.00%    passed     38.42%
+   5  Eulimnogammarus_verrucosus_BK_KF690638       0.00%    failed      0.79%
+   6  Eulimnogammarus_verrucosus_PB_SRR21152014    0.00%    failed      3.91%
+****  TOTAL                                        0.00%  4 sequences failed composition chi2 test (p-value<5%; df=3)
+Reading alignment file 2_trimmed_alignments/ND1.fa.aln.trim.aln.fa ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 6 sequences with 921 columns, 177 distinct patterns
+194 parsimony-informative, 184 singleton sites, 543 constant sites
+                                           Gap/Ambiguity  Composition  p-value
+   1  Acanthogammarus_victorii_KX341962            0.00%    failed      0.01%
+   2  Brachyuropus_grewingkii_KP161875             0.00%    failed      1.54%
+   3  Eulimnogammarus_cyaneus_BK_SRR3467057        0.00%    passed     12.18%
+   4  Eulimnogammarus_cyaneus_SR_KX341964          0.00%    passed      9.64%
+   5  Eulimnogammarus_verrucosus_BK_KF690638       0.00%    passed     36.21%
+   6  Eulimnogammarus_verrucosus_PB_SRR21152014    0.00%    passed     47.01%
+****  TOTAL                                        0.00%  2 sequences failed composition chi2 test (p-value<5%; df=3)
+Reading alignment file 2_trimmed_alignments/ND2.fa.aln.trim.aln.fa ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 6 sequences with 981 columns, 219 distinct patterns
+255 parsimony-informative, 227 singleton sites, 499 constant sites
+                                           Gap/Ambiguity  Composition  p-value
+   1  Acanthogammarus_victorii_KX341962            0.00%    failed      0.01%
+   2  Brachyuropus_grewingkii_KP161875             0.00%    passed      5.85%
+   3  Eulimnogammarus_cyaneus_BK_SRR3467057        0.00%    passed     67.43%
+   4  Eulimnogammarus_cyaneus_SR_KX341964          0.00%    passed     81.67%
+   5  Eulimnogammarus_verrucosus_BK_KF690638       0.00%    passed      7.49%
+   6  Eulimnogammarus_verrucosus_PB_SRR21152014    0.00%    failed      4.09%
+****  TOTAL                                        0.00%  2 sequences failed composition chi2 test (p-value<5%; df=3)
+Reading alignment file 2_trimmed_alignments/ND3.fa.aln.trim.aln.fa ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 6 sequences with 352 columns, 93 distinct patterns
+88 parsimony-informative, 62 singleton sites, 202 constant sites
+                                           Gap/Ambiguity  Composition  p-value
+   1  Acanthogammarus_victorii_KX341962            0.00%    failed      1.23%
+   2  Brachyuropus_grewingkii_KP161875             0.00%    passed     62.63%
+   3  Eulimnogammarus_cyaneus_BK_SRR3467057        0.00%    passed     90.15%
+   4  Eulimnogammarus_cyaneus_SR_KX341964          0.00%    passed     93.54%
+   5  Eulimnogammarus_verrucosus_BK_KF690638       0.00%    passed     34.32%
+   6  Eulimnogammarus_verrucosus_PB_SRR21152014    0.00%    passed     27.73%
+****  TOTAL                                        0.00%  1 sequences failed composition chi2 test (p-value<5%; df=3)
+Reading alignment file 2_trimmed_alignments/ND4.fa.aln.trim.aln.fa ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 6 sequences with 1294 columns, 242 distinct patterns
+287 parsimony-informative, 291 singleton sites, 716 constant sites
+                                           Gap/Ambiguity  Composition  p-value
+   1  Acanthogammarus_victorii_KX341962            0.00%    failed      0.00%
+   2  Brachyuropus_grewingkii_KP161875             0.00%    failed      1.60%
+   3  Eulimnogammarus_cyaneus_BK_SRR3467057        0.00%    passed     51.84%
+   4  Eulimnogammarus_cyaneus_SR_KX341964          0.00%    passed     44.70%
+   5  Eulimnogammarus_verrucosus_BK_KF690638       0.00%    failed      0.04%
+   6  Eulimnogammarus_verrucosus_PB_SRR21152014    0.00%    passed     24.54%
+****  TOTAL                                        0.00%  3 sequences failed composition chi2 test (p-value<5%; df=3)
+Reading alignment file 2_trimmed_alignments/ND4L.fa.aln.trim.aln.fa ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 6 sequences with 291 columns, 96 distinct patterns
+80 parsimony-informative, 57 singleton sites, 154 constant sites
+                                           Gap/Ambiguity  Composition  p-value
+   1  Acanthogammarus_victorii_KX341962            0.00%    passed     42.61%
+   2  Brachyuropus_grewingkii_KP161875             0.00%    passed     93.83%
+   3  Eulimnogammarus_cyaneus_BK_SRR3467057        0.00%    passed     98.25%
+   4  Eulimnogammarus_cyaneus_SR_KX341964          0.00%    passed     99.84%
+   5  Eulimnogammarus_verrucosus_BK_KF690638       0.00%    passed     85.75%
+   6  Eulimnogammarus_verrucosus_PB_SRR21152014    0.00%    passed     94.92%
+****  TOTAL                                        0.00%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+Reading alignment file 2_trimmed_alignments/ND5.fa.aln.trim.aln.fa ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 6 sequences with 1710 columns, 298 distinct patterns
+444 parsimony-informative, 372 singleton sites, 893 constant sites
+                                           Gap/Ambiguity  Composition  p-value
+   1  Acanthogammarus_victorii_KX341962            0.00%    failed      0.00%
+   2  Brachyuropus_grewingkii_KP161875             0.00%    failed      0.00%
+   3  Eulimnogammarus_cyaneus_BK_SRR3467057        0.00%    failed      4.00%
+   4  Eulimnogammarus_cyaneus_SR_KX341964          0.00%    failed      1.36%
+   5  Eulimnogammarus_verrucosus_BK_KF690638       0.00%    failed      0.48%
+   6  Eulimnogammarus_verrucosus_PB_SRR21152014    0.00%    passed      6.58%
+****  TOTAL                                        0.00%  5 sequences failed composition chi2 test (p-value<5%; df=3)
+Reading alignment file 2_trimmed_alignments/ND6.fa.aln.trim.aln.fa ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 6 sequences with 498 columns, 147 distinct patterns
+147 parsimony-informative, 123 singleton sites, 228 constant sites
+                                           Gap/Ambiguity  Composition  p-value
+   1  Acanthogammarus_victorii_KX341962            0.00%    failed      0.03%
+   2  Brachyuropus_grewingkii_KP161875             0.00%    passed      7.12%
+   3  Eulimnogammarus_cyaneus_BK_SRR3467057        0.00%    passed     21.70%
+   4  Eulimnogammarus_cyaneus_SR_KX341964          0.00%    passed     29.17%
+   5  Eulimnogammarus_verrucosus_BK_KF690638       0.00%    passed     19.73%
+   6  Eulimnogammarus_verrucosus_PB_SRR21152014    0.00%    passed     64.92%
+****  TOTAL                                        0.00%  1 sequences failed composition chi2 test (p-value<5%; df=3)
+Reading alignment file 2_trimmed_alignments/rrnL.fa.aln.trim.aln.fa ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 6 sequences with 968 columns, 140 distinct patterns
+166 parsimony-informative, 149 singleton sites, 653 constant sites
+                                           Gap/Ambiguity  Composition  p-value
+   1  Acanthogammarus_victorii_KX341962            0.00%    failed      0.04%
+   2  Brachyuropus_grewingkii_KP161875             0.00%    passed     40.19%
+   3  Eulimnogammarus_cyaneus_BK_SRR3467057        0.00%    passed     17.43%
+   4  Eulimnogammarus_cyaneus_SR_KX341964          0.00%    passed     16.58%
+   5  Eulimnogammarus_verrucosus_BK_KF690638       0.00%    passed     97.59%
+   6  Eulimnogammarus_verrucosus_PB_SRR21152014    0.00%    passed     50.07%
+****  TOTAL                                        0.00%  1 sequences failed composition chi2 test (p-value<5%; df=3)
+Reading alignment file 2_trimmed_alignments/rrnS.fa.aln.trim.aln.fa ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 6 sequences with 612 columns, 108 distinct patterns
+113 parsimony-informative, 91 singleton sites, 408 constant sites
+                                           Gap/Ambiguity  Composition  p-value
+   1  Acanthogammarus_victorii_KX341962            0.00%    passed     13.47%
+   2  Brachyuropus_grewingkii_KP161875             0.00%    passed     57.58%
+   3  Eulimnogammarus_cyaneus_BK_SRR3467057        0.00%    passed     59.74%
+   4  Eulimnogammarus_cyaneus_SR_KX341964          0.00%    passed     66.57%
+   5  Eulimnogammarus_verrucosus_BK_KF690638       0.00%    passed     97.09%
+   6  Eulimnogammarus_verrucosus_PB_SRR21152014    0.00%    passed     76.88%
+****  TOTAL                                        0.00%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+Subset	Type	Seqs	Sites	Infor	Invar	Model	Name
+1		6	669	170	376		ATP6.fa.aln.trim.aln.fa
+2		6	156	40	70		ATP8.fa.aln.trim.aln.fa
+3		6	1533	291	1005		COX1.fa.aln.trim.aln.fa
+4		6	681	147	411		COX2.fa.aln.trim.aln.fa
+5		6	786	185	454		COX3.fa.aln.trim.aln.fa
+6		6	1135	245	679		CYTB.fa.aln.trim.aln.fa
+7		6	921	194	543		ND1.fa.aln.trim.aln.fa
+8		6	981	255	499		ND2.fa.aln.trim.aln.fa
+9		6	352	88	202		ND3.fa.aln.trim.aln.fa
+10		6	1294	287	716		ND4.fa.aln.trim.aln.fa
+11		6	291	80	154		ND4L.fa.aln.trim.aln.fa
+12		6	1710	444	894		ND5.fa.aln.trim.aln.fa
+13		6	498	147	228		ND6.fa.aln.trim.aln.fa
+14		6	968	166	653		rrnL.fa.aln.trim.aln.fa
+15		6	612	113	408		rrnS.fa.aln.trim.aln.fa
+Degree of missing data: 0.000
+Info: multi-threading strategy over partitions
+
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.001 seconds
+Perform fast likelihood tree search using GTR+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Initial log-likelihood: -50077.211
+Current log-likelihood at step 1: -47862.052
+Current log-likelihood at step 2: -47758.049
+Current log-likelihood at step 3: -47732.006
+Current log-likelihood at step 4: -47727.993
+Parameters optimization took 3 rounds (0.246 sec)
+
+
+WARNING: Estimated model parameters are at boundary that can cause numerical instability!
+
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+Initial log-likelihood: -47727.993
+Current log-likelihood at step 1: -47726.135
+Current log-likelihood at step 2: -47725.375
+Partition-specific rates:  1.017 1.251 0.834 0.964 1.032 1.103 1.131 1.106 0.908 1.172 1.172 1.117 1.045 0.624 0.610
+Parameters optimization took 1 rounds (0.055 sec)
+
+
+WARNING: Estimated model parameters are at boundary that can cause numerical instability!
+
+Time for fast ML tree search: 0.315 seconds
+
+NOTE: ModelFinder requires 1 MB RAM!
+Selecting individual models for 15 charsets using BIC...
+ No. Model        Score       TreeLen     Charset
+   1 TPM3+F+G4    5228.683    1.364       ATP6.fa.aln.trim.aln.fa
+   2 TPM3+F+G4    1364.318    1.865       ATP8.fa.aln.trim.aln.fa
+   3 HKY+F+G4     10578.804   1.087       COX1.fa.aln.trim.aln.fa
+   4 HKY+F+G4     5018.982    1.254       COX2.fa.aln.trim.aln.fa
+   5 HKY+F+G4     6233.981    1.397       COX3.fa.aln.trim.aln.fa
+   6 TPM3+F+G4    8670.053    1.471       CYTB.fa.aln.trim.aln.fa
+   7 HKY+F+G4     6851.411    1.453       ND1.fa.aln.trim.aln.fa
+   8 TIM2+F+G4    8167.715    1.491       ND2.fa.aln.trim.aln.fa
+   9 TPM3+F+G4    2694.511    1.235       ND3.fa.aln.trim.aln.fa
+  10 TIM3+F+I     10252.896   1.276       ND4.fa.aln.trim.aln.fa	0h:0m:4s (0h:0m:2s left)
+  11 HKY+F+G4     2362.250    1.599       ND4L.fa.aln.trim.aln.fa	0h:0m:4s (0h:0m:1s left)
+  12 TIM2+F+I     14124.343   1.262       ND5.fa.aln.trim.aln.fa	0h:0m:4s (0h:0m:1s left)
+  13 TIM3+F+I     4298.148    1.292       ND6.fa.aln.trim.aln.fa	0h:0m:5s (0h:0m:0s left)
+  14 TPM3+F+G4    6326.266    0.811       rrnL.fa.aln.trim.aln.fa	0h:0m:5s (0h:0m:0s left)
+  15 TPM2+F+G4    4078.454    0.794       rrnS.fa.aln.trim.aln.fa	0h:0m:6s (0h:0m:0s left)
+Full partition model BIC score: 96624.105 (LnL: -47783.389  df:112)
+Partition information was printed to 2_trimmed_alignments.best_scheme.nex
+Partition information in Raxml format was printed to 2_trimmed_alignments.best_scheme
+
+All model information printed to 2_trimmed_alignments.model.gz
+CPU time for ModelFinder: 6.058 seconds (0h:0m:6s)
+Wall-clock time for ModelFinder: 6.353 seconds (0h:0m:6s)
+Generating 1000 samples for ultrafast bootstrap (seed: 925585)...
+
+NOTE: 11 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+Initial log-likelihood: -47783.389
+Current log-likelihood at step 1: -47782.870
+Current log-likelihood at step 2: -47782.827
+Partition-specific rates:  1.084 1.483 0.854 0.996 1.105 1.161 1.137 1.186 0.978 1.010 1.252 1.001 1.026 0.643 0.628
+Parameters optimization took 1 rounds (0.021 sec)
+
+Computing ML distances based on estimated model parameters... 0.004 sec
+Computing BIONJ tree...
+0.000 seconds
+Log-likelihood of BIONJ tree: -47782.827
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 99 parsimony trees... 0.180 second
+Computing log-likelihood of 6 initial trees ... 0.019 seconds
+Current best score: -47782.827
+
+Do NNI search on 7 best initial trees
+Finish initializing candidate tree set (7)
+Current best tree score: -47782.827 / CPU time: 0.405
+Number of iterations: 7
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 10 / LogL: -47783.100 / Time: 0h:0m:0s
+UPDATE BEST LOG-LIKELIHOOD: -47782.827
+Iteration 20 / LogL: -47868.625 / Time: 0h:0m:1s
+UPDATE BEST LOG-LIKELIHOOD: -47782.827
+Iteration 30 / LogL: -47782.993 / Time: 0h:0m:1s (0h:0m:3s left)
+Iteration 40 / LogL: -47783.043 / Time: 0h:0m:1s (0h:0m:2s left)
+Iteration 50 / LogL: -47782.987 / Time: 0h:0m:2s (0h:0m:2s left)
+Log-likelihood cutoff on original alignment: -47798.585
+UPDATE BEST LOG-LIKELIHOOD: -47782.827
+Iteration 60 / LogL: -47782.993 / Time: 0h:0m:2s (0h:0m:1s left)
+UPDATE BEST LOG-LIKELIHOOD: -47782.827
+UPDATE BEST LOG-LIKELIHOOD: -47782.827
+Iteration 70 / LogL: -47868.625 / Time: 0h:0m:2s (0h:0m:1s left)
+Iteration 80 / LogL: -47784.796 / Time: 0h:0m:3s (0h:0m:0s left)
+Iteration 90 / LogL: -47782.827 / Time: 0h:0m:3s (0h:0m:0s left)
+Iteration 100 / LogL: -47782.965 / Time: 0h:0m:3s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -47798.585
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 1.000
+TREE SEARCH COMPLETED AFTER 101 ITERATIONS / Time: 0h:0m:3s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+Initial log-likelihood: -47782.827
+Current log-likelihood at step 1: -47782.814
+Current log-likelihood at step 2: -47782.809
+Partition-specific rates:  1.085 1.486 0.852 0.996 1.105 1.161 1.130 1.187 0.979 1.012 1.248 1.003 1.028 0.643 0.629
+Parameters optimization took 1 rounds (0.019 sec)
+
+Partition information was printed to 2_trimmed_alignments.best_model.nex
+BEST SCORE FOUND : -47782.809
+
+Testing tree branches by aBayes parametric test...
+0.012 sec.
+Creating bootstrap support values...
+Split supports printed to NEXUS file 2_trimmed_alignments.splits.nex
+Total tree length: 1.253
+
+Total number of iterations: 101
+CPU time used for tree search: 3.453 sec (0h:0m:3s)
+Wall-clock time used for tree search: 3.733 sec (0h:0m:3s)
+Total CPU time used: 3.731 sec (0h:0m:3s)
+Total wall-clock time used: 4.029 sec (0h:0m:4s)
+
+Computing bootstrap consensus tree...
+Reading input file 2_trimmed_alignments.splits.nex...
+6 taxa and 9 splits.
+Consensus tree written to 2_trimmed_alignments.contree
+Reading input trees file 2_trimmed_alignments.contree
+Log-likelihood of consensus tree: -47782.809
+
+Analysis results written to: 
+  IQ-TREE report:                2_trimmed_alignments.iqtree
+  Maximum-likelihood tree:       2_trimmed_alignments.treefile
+  Likelihood distances:          2_trimmed_alignments.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          2_trimmed_alignments.splits.nex
+  Consensus tree:                2_trimmed_alignments.contree
+  Screen log file:               2_trimmed_alignments.log
+
+Date and Time: Mon Apr 15 16:16:39 2024

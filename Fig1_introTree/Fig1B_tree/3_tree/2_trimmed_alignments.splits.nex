@@ -1,0 +1,30 @@
+#nexus
+
+BEGIN Taxa;
+DIMENSIONS ntax=6;
+TAXLABELS
+[1] 'Acanthogammarus_victorii_KX341962'
+[2] 'Brachyuropus_grewingkii_KP161875'
+[3] 'Eulimnogammarus_cyaneus_BK_SRR3467057'
+[4] 'Eulimnogammarus_cyaneus_SR_KX341964'
+[5] 'Eulimnogammarus_verrucosus_BK_KF690638'
+[6] 'Eulimnogammarus_verrucosus_PB_SRR21152014'
+;
+END; [Taxa]
+
+BEGIN Splits;
+DIMENSIONS ntax=6 nsplits=9;
+FORMAT labels=no weights=yes confidences=no intervals=no;
+MATRIX
+	100	 2,
+	100	 3,
+	100	 4,
+	100	 3 4,
+	100	 5,
+	100	 6,
+	100	 5 6,
+	100	 1 2,
+	100	 1,
+;
+END; [Splits]
+

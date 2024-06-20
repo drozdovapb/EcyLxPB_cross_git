@@ -1,0 +1,34 @@
+#nexus
+begin sets;
+  charset ATP6.fa.aln.trim.aln.fa = 2_trimmed_alignments/ATP6.fa.aln.trim.aln.fa: ;
+  charset ATP8.fa.aln.trim.aln.fa = 2_trimmed_alignments/ATP8.fa.aln.trim.aln.fa: ;
+  charset COX1.fa.aln.trim.aln.fa = 2_trimmed_alignments/COX1.fa.aln.trim.aln.fa: ;
+  charset COX2.fa.aln.trim.aln.fa = 2_trimmed_alignments/COX2.fa.aln.trim.aln.fa: ;
+  charset COX3.fa.aln.trim.aln.fa = 2_trimmed_alignments/COX3.fa.aln.trim.aln.fa: ;
+  charset CYTB.fa.aln.trim.aln.fa = 2_trimmed_alignments/CYTB.fa.aln.trim.aln.fa: ;
+  charset ND1.fa.aln.trim.aln.fa = 2_trimmed_alignments/ND1.fa.aln.trim.aln.fa: ;
+  charset ND2.fa.aln.trim.aln.fa = 2_trimmed_alignments/ND2.fa.aln.trim.aln.fa: ;
+  charset ND3.fa.aln.trim.aln.fa = 2_trimmed_alignments/ND3.fa.aln.trim.aln.fa: ;
+  charset ND4.fa.aln.trim.aln.fa = 2_trimmed_alignments/ND4.fa.aln.trim.aln.fa: ;
+  charset ND4L.fa.aln.trim.aln.fa = 2_trimmed_alignments/ND4L.fa.aln.trim.aln.fa: ;
+  charset ND5.fa.aln.trim.aln.fa = 2_trimmed_alignments/ND5.fa.aln.trim.aln.fa: ;
+  charset ND6.fa.aln.trim.aln.fa = 2_trimmed_alignments/ND6.fa.aln.trim.aln.fa: ;
+  charset rrnL.fa.aln.trim.aln.fa = 2_trimmed_alignments/rrnL.fa.aln.trim.aln.fa: ;
+  charset rrnS.fa.aln.trim.aln.fa = 2_trimmed_alignments/rrnS.fa.aln.trim.aln.fa: ;
+  charpartition mymodels =
+    TPM3+F+G4: ATP6.fa.aln.trim.aln.fa,
+    TPM3+F+G4: ATP8.fa.aln.trim.aln.fa,
+    HKY+F+G4: COX1.fa.aln.trim.aln.fa,
+    HKY+F+G4: COX2.fa.aln.trim.aln.fa,
+    HKY+F+G4: COX3.fa.aln.trim.aln.fa,
+    TPM3+F+G4: CYTB.fa.aln.trim.aln.fa,
+    HKY+F+G4: ND1.fa.aln.trim.aln.fa,
+    TIM2+F+G4: ND2.fa.aln.trim.aln.fa,
+    TPM3+F+G4: ND3.fa.aln.trim.aln.fa,
+    TIM3+F+I: ND4.fa.aln.trim.aln.fa,
+    HKY+F+G4: ND4L.fa.aln.trim.aln.fa,
+    TIM2+F+I: ND5.fa.aln.trim.aln.fa,
+    TIM3+F+I: ND6.fa.aln.trim.aln.fa,
+    TPM3+F+G4: rrnL.fa.aln.trim.aln.fa,
+    TPM2+F+G4: rrnS.fa.aln.trim.aln.fa;
+end;

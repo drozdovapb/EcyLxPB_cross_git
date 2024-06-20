@@ -1,0 +1,34 @@
+#nexus
+begin sets;
+  charset ATP6.fa.aln.trim.aln.fa = 2_trimmed_alignments/ATP6.fa.aln.trim.aln.fa: ;
+  charset ATP8.fa.aln.trim.aln.fa = 2_trimmed_alignments/ATP8.fa.aln.trim.aln.fa: ;
+  charset COX1.fa.aln.trim.aln.fa = 2_trimmed_alignments/COX1.fa.aln.trim.aln.fa: ;
+  charset COX2.fa.aln.trim.aln.fa = 2_trimmed_alignments/COX2.fa.aln.trim.aln.fa: ;
+  charset COX3.fa.aln.trim.aln.fa = 2_trimmed_alignments/COX3.fa.aln.trim.aln.fa: ;
+  charset CYTB.fa.aln.trim.aln.fa = 2_trimmed_alignments/CYTB.fa.aln.trim.aln.fa: ;
+  charset ND1.fa.aln.trim.aln.fa = 2_trimmed_alignments/ND1.fa.aln.trim.aln.fa: ;
+  charset ND2.fa.aln.trim.aln.fa = 2_trimmed_alignments/ND2.fa.aln.trim.aln.fa: ;
+  charset ND3.fa.aln.trim.aln.fa = 2_trimmed_alignments/ND3.fa.aln.trim.aln.fa: ;
+  charset ND4.fa.aln.trim.aln.fa = 2_trimmed_alignments/ND4.fa.aln.trim.aln.fa: ;
+  charset ND4L.fa.aln.trim.aln.fa = 2_trimmed_alignments/ND4L.fa.aln.trim.aln.fa: ;
+  charset ND5.fa.aln.trim.aln.fa = 2_trimmed_alignments/ND5.fa.aln.trim.aln.fa: ;
+  charset ND6.fa.aln.trim.aln.fa = 2_trimmed_alignments/ND6.fa.aln.trim.aln.fa: ;
+  charset rrnL.fa.aln.trim.aln.fa = 2_trimmed_alignments/rrnL.fa.aln.trim.aln.fa: ;
+  charset rrnS.fa.aln.trim.aln.fa = 2_trimmed_alignments/rrnS.fa.aln.trim.aln.fa: ;
+  charpartition mymodels =
+    TPM3{3.73404,11.1994}+F{0.277529,0.226707,0.112606,0.383159}+G4{0.407121}: ATP6.fa.aln.trim.aln.fa{1.3602},
+    TPM3{12.1197,28.0515}+F{0.347222,0.19765,0.0865385,0.36859}+G4{0.665875}: ATP8.fa.aln.trim.aln.fa{1.86259},
+    HKY{9.00496}+F{0.256795,0.205914,0.176886,0.360404}+G4{0.250059}: COX1.fa.aln.trim.aln.fa{1.06831},
+    HKY{9.35365}+F{0.297602,0.223935,0.146109,0.332354}+G4{0.322725}: COX2.fa.aln.trim.aln.fa{1.24764},
+    HKY{5.66272}+F{0.254877,0.227735,0.173028,0.34436}+G4{0.325535}: COX3.fa.aln.trim.aln.fa{1.38485},
+    TPM3{4.85545,18.0761}+F{0.283847,0.216887,0.138032,0.361233}+G4{0.294649}: CYTB.fa.aln.trim.aln.fa{1.45554},
+    HKY{9.70427}+F{0.278683,0.109121,0.229823,0.382374}+G4{0.33684}: ND1.fa.aln.trim.aln.fa{1.41673},
+    TIM2{0.29109,5.06086,2.31893}+F{0.279137,0.212198,0.134557,0.374108}+G4{0.543805}: ND2.fa.aln.trim.aln.fa{1.48755},
+    TPM3{3.07999,12.8252}+F{0.27178,0.211174,0.150568,0.366477}+G4{0.412458}: ND3.fa.aln.trim.aln.fa{1.22679},
+    TIM3{3.88923,8.65388,14.3056}+F{0.258758,0.111412,0.243818,0.386012}+I{0.437954}: ND4.fa.aln.trim.aln.fa{1.26801},
+    HKY{8.06947}+F{0.27606,0.0922108,0.238259,0.393471}+G4{0.476747}: ND4L.fa.aln.trim.aln.fa{1.56459},
+    TIM2{0.656694,3.28819,5.82746}+F{0.286062,0.119493,0.232943,0.361501}+I{0.415313}: ND5.fa.aln.trim.aln.fa{1.2572},
+    TIM3{3.02399,10.665,6.25574}+F{0.273427,0.218876,0.106091,0.401606}+I{0.307172}: ND6.fa.aln.trim.aln.fa{1.28845},
+    TPM3{0.242351,4.69751}+F{0.329718,0.0952135,0.199725,0.375344}+G4{0.291178}: rrnL.fa.aln.trim.aln.fa{0.805654},
+    TPM2{0.3836,3.44248}+F{0.301743,0.107571,0.227124,0.363562}+G4{0.333013}: rrnS.fa.aln.trim.aln.fa{0.788039};
+end;
