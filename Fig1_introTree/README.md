@@ -1,5 +1,7 @@
 ## Fig 1A: map
 
+* build the map with the `ggmap` package;
+* finish with Inkscape.
 
 ## Fig 1B: phylogenetic tree
 
